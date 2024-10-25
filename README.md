@@ -37,6 +37,4 @@ JavaScript (ES6+): Programming language for frontend logic and interactions.
 Contributing
 Contributions are welcome! If you have any suggestions, improvements, or feature requests, feel free to open an issue or submit a pull request.
 
-Author
-Blajan David
 # PortfolioWebsite
