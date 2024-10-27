@@ -1,6 +1,6 @@
 Portfolio Website
 Description
-This is a portfolio website built using React.js and Three.js components. It showcases various projects undertaken by the developer and provides an overview of their skills and experiences..
+This is a portfolio website built using React.js and Three.js components. It showcases various projects undertaken by the developer and provides an overview of their skills and experiences.
 
 Features
 Project Showcase: Display of projects with descriptions, images, and links to GitHub repositories or live demos.
